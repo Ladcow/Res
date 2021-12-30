@@ -1,0 +1,106 @@
+body{
+	background-color: #ffff;
+	margin: 5em;
+	overflow-x: hidden;
+	margin-top: 0em;
+}
+.title{
+	width: 300px;
+	height: 300px;
+	background-color: lavender;
+	padding-top: 2em;
+	padding-left: 1em;
+	text-align: left;
+	font-size: 20px;
+	font-family: georgia;
+	color: black;
+}
+.subtitle{
+	margin-left: 24.6em;
+	margin-top: -26.15em;
+	padding-top: 7em;
+	width: 962px;
+	height: 200px;
+	background-color: powderblue;
+	border: none;
+	text-align: center;
+	font-family: monospace;
+}
+.subtitle a{
+	text-decoration: none;;
+}
+.text{
+	width: 650px;
+	height: 730px;
+	background-color: #ffff;
+	position: absolute;
+	z-index: -1;
+	margin-top: -14.51em;
+	border: none;
+}
+.text h3{
+	margin-left: 400px;
+	margin-top: 273px;
+	text-decoration: overline;
+}
+.text h5{
+	margin-left: 382px;
+	
+
+}
+.text p{
+	margin-left: 390px;
+	font-size: 13px;
+	margin-top: -12px;
+}
+.text h6{
+	margin-left: 385px;
+	margin-top: -22px;
+	
+}
+.edu{
+	width: 632px;
+	height: 550px;
+	background-color: #ffff;
+	position: absolute;
+	z-index: -1;
+	margin-left: 40.64em;
+	margin-top: -18.55em;
+	border: none;
+}
+.edu h3{
+	margin-top: 18.1em;
+	margin-left: 12em;
+	text-decoration: overline;
+}
+.edu h5{
+	margin-left: 11em;
+}
+.edu h6{
+	margin-left: 15em;
+}
+.edu li{
+	font-size: 12px;
+	margin-left: 15em;
+}
+.ref{
+	width: 632px;
+	height: 244.5px;
+	background-color: #ffff;
+	position: absolute;
+	z-index: -1;
+	margin-left: 40.63em;
+	margin-top: 15.85em;
+	border: none;
+}
+.ref h3{
+	margin-top: 1.5em;
+	margin-left: 12em;
+	text-decoration: overline;
+}
+.ref li{
+	font-size: 12px;
+	margin-left: 12em;
+	margin-top: 1.5em;
+
+}
