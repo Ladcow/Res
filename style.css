@@ -19,7 +19,7 @@ body{
 	margin-left: 24.6em;
 	margin-top: -26.15em;
 	padding-top: 7em;
-	width: 962px;
+	width: 953px;
 	height: 200px;
 	background-color: powderblue;
 	border: none;
@@ -57,6 +57,13 @@ body{
 	margin-left: 385px;
 	margin-top: -22px;
 	
+}
+.text i{
+	margin-top: 7.8em;
+	margin-left: 3.5em;
+	position: absolute;
+	font-size: 40px;
+	color: black;
 }
 .edu{
 	width: 632px;
